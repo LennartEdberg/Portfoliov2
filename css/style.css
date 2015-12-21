@@ -1,0 +1,16 @@
+body
+{
+    background: linear-gradient(90deg, #f18d2d, #ec7575);
+}
+
+h1
+{
+    color: white;
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    font-size: 64px;
+    line-height: calc(100vh - 64px);
+    margin: 0px;
+    padding: 0px;
+}
+
