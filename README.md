@@ -2,3 +2,6 @@
 
 #Description
 Getting dat new site goin!
+
+#Grunt
+Minifying CSS-files.
