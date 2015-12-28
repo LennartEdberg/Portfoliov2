@@ -1,0 +1,7 @@
+#Grunt
+node_modules/
+gruntfile.js
+
+#CSS
+style.css
+/package.json

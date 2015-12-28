@@ -1,6 +1,8 @@
-body
+body, html
 {
+    height: 100vh;
     background: linear-gradient(90deg, #f18d2d, #ec7575);
+    background: #000 url(../img/pattern1.png) repeat;
 }
 
 h1
@@ -12,5 +14,11 @@ h1
     line-height: calc(100vh - 64px);
     margin: 0px;
     padding: 0px;
+}
+
+.onepage
+{
+    height: 100%;
+    width: 100%;
 }
 
